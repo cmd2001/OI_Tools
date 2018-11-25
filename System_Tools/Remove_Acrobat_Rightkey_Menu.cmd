@@ -1,0 +1,1 @@
+reg delete HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\Adobe.Acrobat.ContextMenu /f
